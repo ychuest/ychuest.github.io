@@ -515,7 +515,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2022-02-08
+                    2022-02-09
                 </div>
                 
 
@@ -553,8 +553,7 @@
         <div class="card-content article-card-content">
             <div id="articleContent">
                 <hr>
-<h2 id="title-CircR2Disease-v2-0"><a href="#title-CircR2Disease-v2-0" class="headerlink" title="title: CircR2Disease v2.0"></a>title: CircR2Disease v2.0</h2><h2 id="对-CircR2Disease-v2-0-进行数据清洗产生circRNA-disease关联矩阵的方法"><a href="#对-CircR2Disease-v2-0-进行数据清洗产生circRNA-disease关联矩阵的方法" class="headerlink" title="对 CircR2Disease v2.0 进行数据清洗产生circRNA-disease关联矩阵的方法"></a>对 CircR2Disease v2.0 进行数据清洗产生circRNA-disease关联矩阵的方法</h2><p>@(circRNA-disease associations)[pandas|python]</p>
-<p><strong>circRNA-disease关联矩阵</strong> 是通过机器学习方法和深度学习方法预测与疾病存有潜在关联的circRNA所必须要的数据材料, 借此，基于最新记录关联数据的数据库 <strong>CircR2Disease v2.0</strong> 向大家介绍一种通过pandas进行数据清洗产生circRNA-disease 关联矩阵的方法。实现的步骤具体需要如下几步，后边会展开细节叙述。 </p>
+<h2 id="title-CircR2Disease-v2-0-数据清洗产生关联矩阵"><a href="#title-CircR2Disease-v2-0-数据清洗产生关联矩阵" class="headerlink" title="title: CircR2Disease v2.0 数据清洗产生关联矩阵"></a>title: CircR2Disease v2.0 数据清洗产生关联矩阵</h2><h2 id="对-CircR2Disease-v2-0-进行数据清洗产生circRNA-disease关联矩阵的方法"><a href="#对-CircR2Disease-v2-0-进行数据清洗产生circRNA-disease关联矩阵的方法" class="headerlink" title="对 CircR2Disease v2.0 进行数据清洗产生circRNA-disease关联矩阵的方法"></a>对 CircR2Disease v2.0 进行数据清洗产生circRNA-disease关联矩阵的方法</h2><p><strong>circRNA-disease关联矩阵</strong> 是通过机器学习方法和深度学习方法预测与疾病存有潜在关联的circRNA所必须要的数据材料, 借此，基于最新记录关联数据的数据库 <strong>CircR2Disease v2.0</strong> 向大家介绍一种通过pandas进行数据清洗产生circRNA-disease 关联矩阵的方法。实现的步骤具体需要如下几步，后边会展开细节叙述。 </p>
 <ul>
 <li><p><strong>下载所需数据库</strong> - CircR2Disease v2.0，是陕西师范大学，雷秀娟教授，于2021年11月24日在Genomics, Proteomics &amp; Bioinformatics(IF=7.691)刊上发表的记录circRNA与disease关系的数据库，并提供在线查询，文档下载等功能。其文章链接为<a target="_blank" rel="noopener" href="https://www.sciencedirect.com/science/article/pii/S1672022921002461">https://www.sciencedirect.com/science/article/pii/S1672022921002461</a>。其统计的数据库链接为 <a target="_blank" rel="noopener" href="http://bioinfo.snnu.edu.cn/CircR2Disease_v2.0">http://bioinfo.snnu.edu.cn/CircR2Disease_v2.0</a>。在这篇博客中，我们只需要它 “The circRNA-disease entries.xlsx”中的文档数据。如下图所示。<br><img src="https://github.com/ychuest/ychuest.github.io/tree/main/images/entries.png" alt="entries"></p>
 </li>
@@ -745,8 +744,8 @@ if __name__ == '__main__':
     print(association_del_col_row)
     print('关联数：', count)
 </code></pre>
-<p>产生的关联矩阵结果展示：<br><img src="https://github.com/ychuest/ychuest.github.io/tree/main/images/interation.png" alt="interation"><br>###5、 Feedback &amp; Bug Report</p>
-<ul>
+<p>产生的关联矩阵结果展示：<br><img src="https://github.com/ychuest/ychuest.github.io/tree/main/images/interation.png" alt="interation"></p>
+<h3 id="5、-Feedback-amp-Bug-Report"><a href="#5、-Feedback-amp-Bug-Report" class="headerlink" title="5、 Feedback &amp; Bug Report"></a>5、 Feedback &amp; Bug Report</h3><ul>
 <li>WeChat: Yc-820558941</li>
 <li>Email: <a href="mailto:yangchengyjs@163.com">yangchengyjs@163.com</a></li>
 </ul>
