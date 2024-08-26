@@ -62,7 +62,7 @@ Li Peng, **Cheng Yang**, Jiahuai Yang, Yuan Tu, Qingchun Yu, Zejun Li, Min Chen,
 - *2024.06 - (now)* Junior Engineer of Large Language Models in the Information Office of the Teaching and Research Support Center, National University of Defense Technology.
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor times<br>
   <img src="https://profile-counter.glitch.me/yangchengyjs.github.io/count.svg" />
 </p>
 
