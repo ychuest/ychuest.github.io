@@ -98,9 +98,9 @@ Li Peng, **Cheng Yang**, Yifan Chen and Wei Liu
 
 Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu
 
-- Multi-kernel feature convolutional learning methods.
-- Dynamic Attention Mechanism.
-- Heterogeneous Graph Feature Representation Learning.
+- Robust non-negative matrix factorisation.
+- Label propagation.
+- Convex Optimisation Optimal Solution Method.
 
 <div style="display: inline">
     <a href="https://academic.oup.com/bib/article/23/5/bbac155/6582881?login=false"> <strong>[paper]</strong></a>
