@@ -52,8 +52,6 @@ Li Peng, **Cheng Yang**, Jiahuai Yang, Yuan Tu, Qingchun Yu, Zejun Li, Min Chen,
     </div>
 </div>
 
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2020-2023(M.Eng.)*: Outstanding Graduate(2023), National Scholarships for Postgraduate Students(2022), Scholarship(2021).
