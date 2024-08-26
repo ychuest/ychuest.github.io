@@ -61,8 +61,9 @@ Li Peng, **Cheng Yang**, Jiahuai Yang, Yuan Tu, Qingchun Yu, Zejun Li, Min Chen,
 - *2023.09 - 2024.05* Algorithmic Engineer in Hunan Geely Auto Parts Co.
 - *2024.06 - (now)* Junior Engineer of Large Language Models in the Information Office of the Teaching and Research Support Center, National University of Defense Technology.
 
-<div align="center">
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-This homepage is visited <font color="purple" size="5"><span id="busuanzi_value_site_pv"></span></font> times
-</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yangchengyjs.github.io/count.svg" />
+</p>
+
 
