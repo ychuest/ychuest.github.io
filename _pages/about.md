@@ -26,9 +26,9 @@ Welcome to Cheng Yang(杨城)’s website!
 Previously I obtained my master degree in computer science from Hunan University of Science and Technology where I was advised by [Prof.Li Peng](https://faculty.hnust.edu.cn/pubtphp/jsjkxygcxy/1050047/chinese/).
 
 I’m currently conducting some research in deep learning, including:    
-🌲 Large Language Models in Bioinformatics.  
-🌱 Interaction Event Prediction in Bioinformatics.  
-🌿 Graph Neural Networks for Recommender Systems. 
+🌲 **Large Language Models in Bioinformatics**.  
+🌱 **Interaction Event Prediction in Bioinformatics**.  
+🌿 **Graph Neural Networks for Recommender Systems**. 
 
 I have published several papers in Briefings in Bioinformatics (BIB), IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), and IEEE Journal of Biomedical and Health Informatics ([JBHI](https://ieeexplore.ieee.org/author/37089867636)).
 
