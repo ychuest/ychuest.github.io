@@ -120,10 +120,19 @@ Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu
 # 🎖 Honors and Awards
 - *2020-2023(M.Eng.)*: Outstanding Graduate(2023), National Scholarships for Postgraduate Students(2022), Scholarship(2021).
 
+
 # 📖 Educations
 - *2020.09 - 2023.06*, M.Eng. in Computer Science, School of Computer Science and Technology, Hunan University of Science and Technology
 - *2023.09 - 2024.05*, Algorithmic Engineer in Hunan Geely Auto Parts Co.
 - *2024.06 - (now)*, Junior Engineer of Large Language Models in the Information Office of the Teaching and Research Support Center, National University of Defense Technology.
+
+
+# 💬 Invited Talks
+- *2021.12*, I'm giving an oral report at the 21th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP, CCF-C).
+
+
+# 💻 Internships
+- *2024.06 - (now)*, Junior Engineer with Large Language Model joins Network Information Centre of National University of Defence Technology (NUDT), Changsha.
 
 <p align="center"> 
   Visitor times<br>
