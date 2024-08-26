@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Cheng Yang"
+  avatar           : # "images/android-chrome-512x512.png"
   bio              : "Hunan University of Science and Technology"
   location         : "Xiangtan, China"
   employer         :
