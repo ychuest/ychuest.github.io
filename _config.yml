@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Cheng Yang"
 description              : " "
-repository               : "ychuest/yangchengyjs.github.io"
+repository               : "https://yangchengyjs.github.io/"
 google_scholar_stats_use_cdn : False
 
 # google analytics
