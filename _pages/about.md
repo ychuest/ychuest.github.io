@@ -128,7 +128,7 @@ Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu
 
 
 # 💬 Invited Talks
-- *2021.12*, I'm giving an oral report at the 21th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP, CCF-C).
+- *2021.12*, I previously gave an oral presentation at the 21st International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP'21, CCF-C).
 
 
 # 💻 Internships
