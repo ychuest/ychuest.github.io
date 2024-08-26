@@ -9,6 +9,15 @@ redirect_from:
 ---
 
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 
 # 😀 Hi there! 
 
@@ -34,6 +43,7 @@ I have published several papers in Briefings in Bioinformatics (BIB), IEEE/ACM T
 
 # 📝 Publications 
 
+<div class='paper-box-text' markdown="1">
 [**Drug repositioning via Multi-view Representation Learning with Heterogeneous Graph Neural Network**](https://ieeexplore.ieee.org/abstract/document/9882129) <img src='https://img.shields.io/github/stars/ychuest/MRLHGNN.svg?style=social&label=Star' alt="sym" height="100%">
 
 Li Peng, **Cheng Yang**, Jiahuai Yang, Yuan Tu, Qingchun Yu, Zejun Li, Min Chen, Wei Liang
