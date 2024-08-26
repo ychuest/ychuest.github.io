@@ -99,7 +99,7 @@ Li Peng, **Cheng Yang**, Yifan Chen and Wei Liu
 Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu
 
 - Robust non-negative matrix factorisation.
-- Label propagation.
+- Multiple subspace feature propagation.
 - Convex Optimisation Optimal Solution Method.
 
 <div style="display: inline">
