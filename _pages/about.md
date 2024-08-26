@@ -67,6 +67,33 @@ Li Peng, **Cheng Yang**, Jiahuai Yang, Yuan Tu, Qingchun Yu, Zejun Li, Min Chen,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI'23</div><img src='../images/GATCL2CD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[**Predicting CircRNA-Disease associations via feature convolution learning with heterogeneous graph attention network**](https://ieeexplore.ieee.org/document/10079096) <img src='https://img.shields.io/github/stars/ychuest/GATCL2CD.svg?style=social&label=Star' alt="sym" height="100%">
+
+Li Peng, **Cheng Yang**, Yifan Chen and Wei Liu
+
+- Multi-kernel feature convolutional learning methods.
+- Dynamic Attention Mechanism.
+- Heterogeneous Graph Feature Representation Learning.
+
+<div style="display: inline">
+    <a href="https://ieeexplore.ieee.org/document/10079096"> <strong>[paper]</strong></a>
+    <a href="https://github.com/ychuest/GATCL2CD"> <strong>[code]</strong></a>
+    <a href="https://github.com/ychuest/GATCL2CD"> <strong>[Project Page]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" ><strong>[abstract]</strong></a>
+    <div class="abstract"  style="overflow: hidden; display: none;">  
+        <p> Exploring the relationship between circular RNA (circRNA) and disease is beneficial for revealing the mechanisms of disease pathogenesis. However, a blind search for all possible associations between circRNAs and diseases through biological experiments is time-consuming. Although some prediction methods have been proposed, they still have limitations. In this study, a novel computational framework, called GATCL2CD, is proposed to forecast unknown circRNA-disease associations (CDAs). First, we calculate Gaussian interactive profile kernel (GIP) similarity and semantic similarity for diseases, circRNA sequence similarity and function similarity, and GIPs for circRNAs. Then, we combine them to construct a heterogeneous graph. Thereafter, GATCL2CD proposes a feature convolution learning framework, that uses a multi-head dynamic attention mechanism to obtain different aggregated representations of features that correspond to the nodes in the heterogeneous graph. Then, it extracts rich higher-order features from the stacked feature representations of each node by using of a single-layer convolutional neural network with filter kernels of different sizes. Finally, a pairwise element-wise product operation is implemented to capture the interactions of higher-order feature representations, and a multilayer perceptron neural network is introduced as an efficient classifier for inferring potential CDAs. Major experimental results under 5-fold cross-validation (5-fold CV) on three different datasets show that GATCL2CD is superior to five other state-of-the-art methods. Furthermore, case studies demonstrate the suitability of GATCL2CD as a useful tool for identifying potential disease-related circRNAs. </p>
+    </div>
+</div>
+  
+</div>
+</div>
+
+
+
+
 
 # 🎖 Honors and Awards
 - *2020-2023(M.Eng.)*: Outstanding Graduate(2023), National Scholarships for Postgraduate Students(2022), Scholarship(2021).
