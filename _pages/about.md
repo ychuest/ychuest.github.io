@@ -58,8 +58,8 @@ Li Peng, **Cheng Yang**, Jiahuai Yang, Yuan Tu, Qingchun Yu, Zejun Li, Min Chen,
 
 # 📖 Educations
 - *2020.09 - 2023.06*, M.Eng. in Computer Science, School of Computer Science and Technology, Hunan University of Science and Technology
-- *2023.09 - 2024.05* Algorithmic Engineer in Hunan Geely Auto Parts Co.
-- *2024.06 - (now)* Junior Engineer of Large Language Models in the Information Office of the Teaching and Research Support Center, National University of Defense Technology.
+- *2023.09 - 2024.05*, Algorithmic Engineer in Hunan Geely Auto Parts Co.
+- *2024.06 - (now)*, Junior Engineer of Large Language Models in the Information Office of the Teaching and Research Support Center, National University of Defense Technology.
 
 <p align="center"> 
   Visitor times<br>
