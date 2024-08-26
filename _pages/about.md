@@ -43,6 +43,7 @@ I have published several papers in Briefings in Bioinformatics (BIB), IEEE/ACM T
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://github.com/horseee/learning-to-cache/raw/main/assets/teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**Drug repositioning via Multi-view Representation Learning with Heterogeneous Graph Neural Network**](https://ieeexplore.ieee.org/abstract/document/9882129) <img src='https://img.shields.io/github/stars/ychuest/MRLHGNN.svg?style=social&label=Star' alt="sym" height="100%">
 
