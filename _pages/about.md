@@ -20,6 +20,7 @@ I’m currently conducting some research in deep learning, including:
 🌿 Graph Neural Networks for Recommender Systems. 
 
 I have published several papers in Briefings in Bioinformatics (BIB), IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB) and IEEE Journal of Biomedical and Health Informatics ([JBHI](https://ieeexplore.ieee.org/author/37089867636)).
+
 **I'm actively seeking a PHD opportunity. If you have any opportunities, please contact me, I would appreciate it. Thanks 😎!**
 
 # 🔥 News
