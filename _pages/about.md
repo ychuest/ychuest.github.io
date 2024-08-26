@@ -91,7 +91,29 @@ Li Peng, **Cheng Yang**, Yifan Chen and Wei Liu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIB'22</div><img src='../images/RNMFLP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[**RNMFLP: Predicting circRNA–disease associations based on robust nonnegative matrix factorization and label propagation**](https://academic.oup.com/bib/article/23/5/bbac155/6582881?login=false) <img src='https://img.shields.io/github/stars/biohnuster/RNMFLP.svg?style=social&label=Star' alt="sym" height="100%">
+
+Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu
+
+- Multi-kernel feature convolutional learning methods.
+- Dynamic Attention Mechanism.
+- Heterogeneous Graph Feature Representation Learning.
+
+<div style="display: inline">
+    <a href="https://academic.oup.com/bib/article/23/5/bbac155/6582881?login=false"> <strong>[paper]</strong></a>
+    <a href="https://github.com/biohnuster/RNMFLP"> <strong>[code]</strong></a>
+    <a href="https://github.com/biohnuster/RNMFLP"> <strong>[Project Page]</strong></a>
+    <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" ><strong>[abstract]</strong></a>
+    <div class="abstract"  style="overflow: hidden; display: none;">  
+        <p> Circular RNAs (circRNAs) are a class of structurally stable endogenous noncoding RNA molecules. Increasing studies indicate that circRNAs play vital roles in human diseases. However, validating disease-related circRNAs in vivo is costly and time-consuming. A reliable and effective computational method to identify circRNA–disease associations deserves further studies. In this study, we propose a computational method called RNMFLP that combines robust nonnegative matrix factorization (RNMF) and label propagation algorithm (LP) to predict circRNA–disease associations. First, to reduce the impact of false negative data, the original circRNA–disease adjacency matrix is updated by matrix multiplication using the integrated circRNA similarity and the disease similarity information. Subsequently, the RNMF algorithm is used to obtain the restricted latent space to capture potential circRNA–disease pairs from the association matrix. Finally, the LP algorithm is utilized to predict more accurate circRNA–disease associations from the integrated circRNA similarity network and integrated disease similarity network, respectively. Fivefold cross-validation of four datasets shows that RNMFLP is superior to the state-of-the-art methods. In addition, case studies on lung cancer, hepatocellular carcinoma and colorectal cancer further demonstrate the reliability of our method to discover disease-related circRNAs. </p>
+    </div>
+</div>
+  
+</div>
+</div>
 
 
 
