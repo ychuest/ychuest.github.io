@@ -135,7 +135,7 @@ Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu
 - *2024.06 - (now)*, Junior Engineer with Large Language Model joins Network Information Centre of National University of Defence Technology (NUDT), Changsha.
 
 <p align="center"> 
-  Visitor times<br>
+  Visitor counts<br>
   <img src="https://profile-counter.glitch.me/yangchengyjs.github.io/count.svg" />
 </p>
 
