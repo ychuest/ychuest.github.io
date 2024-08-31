@@ -72,7 +72,7 @@ Li Peng, **Cheng Yang**, Jiahuai Yang, Yuan Tu, Qingchun Yu, Zejun Li, Min Chen,
   
 [**Predicting CircRNA-Disease associations via feature convolution learning with heterogeneous graph attention network**](https://ieeexplore.ieee.org/document/10079096) <img src='https://img.shields.io/github/stars/ychuest/GATCL2CD.svg?style=social&label=Star' alt="sym" height="100%">
 
-Li Peng, **Cheng Yang**, Yifan Chen and Wei Liu.
+Li Peng, <span style="font-weight: 900;">Cheng Yang</span>, Yifan Chen and Wei Liu.
 
 - Multi-kernel feature convolutional learning methods.
 - Dynamic Attention Mechanism.
