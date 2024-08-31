@@ -120,7 +120,7 @@ Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu.
 
 <ul>
   <li>
-    <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2024212"> HRGCNLDA: Forecasting of lncRNA-disease association based on hierarchical refinement graph convolutional neural network</a>.Li Peng, Yujie Yang, **Cheng Yang**, Zejun Li, Ngai Cheong. <strong>Mathematical Biosciences and Engineering 2024</strong>. 
+    <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2024212"> HRGCNLDA: Forecasting of lncRNA-disease association based on hierarchical refinement graph convolutional neural network</a>.Li Peng, Yujie Yang, <strong>Cheng Yang</strong>, Zejun Li, Ngai Cheong. <strong>Mathematical Biosciences and Engineering 2024</strong>. 
     <div style="display: inline">
         <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2024212"> [paper]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
@@ -131,7 +131,7 @@ Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu.
   </li>
 
   <li>
-   <a href="https://ieeexplore.ieee.org/document/9882129"> Predicting Drug-Target Interactions Via Dual-Stream Graph Neural Network</a>. Yuhui Li, Wei Liang, Li Peng, Dafang Zhang, **Cheng Yang**, Kuan-Ching Li. <strong>TCBB 2022</strong>. 
+   <a href="https://ieeexplore.ieee.org/document/9882129"> Predicting Drug-Target Interactions Via Dual-Stream Graph Neural Network</a>. Yuhui Li, Wei Liang, Li Peng, Dafang Zhang, <strong>Cheng Yang</strong>, Kuan-Ching Li. <strong>TCBB 2022</strong>. 
     <div style="display: inline">
         <a href="https://ieeexplore.ieee.org/document/9882129"> [paper]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
