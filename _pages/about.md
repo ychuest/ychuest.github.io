@@ -48,7 +48,7 @@ I have published several papers in Briefings in Bioinformatics (BIB), IEEE/ACM T
   
 [**Drug repositioning via Multi-view Representation Learning with Heterogeneous Graph Neural Network**](https://ieeexplore.ieee.org/abstract/document/9882129) <img src='https://img.shields.io/github/stars/ychuest/MRLHGNN.svg?style=social&label=Star' alt="sym" height="100%">
 
-Li Peng, **Cheng Yang**, Jiahuai Yang, Yuan Tu, Qingchun Yu, Zejun Li, Min Chen, Wei Liang
+Li Peng, **Cheng Yang**, Jiahuai Yang, Yuan Tu, Qingchun Yu, Zejun Li, Min Chen, Wei Liang.
 
 - A heterogeneous graph neural network focusing on local structure.
 - Transformer's feature fusion mechanism.
@@ -72,7 +72,7 @@ Li Peng, **Cheng Yang**, Jiahuai Yang, Yuan Tu, Qingchun Yu, Zejun Li, Min Chen,
   
 [**Predicting CircRNA-Disease associations via feature convolution learning with heterogeneous graph attention network**](https://ieeexplore.ieee.org/document/10079096) <img src='https://img.shields.io/github/stars/ychuest/GATCL2CD.svg?style=social&label=Star' alt="sym" height="100%">
 
-Li Peng, **Cheng Yang**, Yifan Chen and Wei Liu
+Li Peng, **Cheng Yang**, Yifan Chen and Wei Liu.
 
 - Multi-kernel feature convolutional learning methods.
 - Dynamic Attention Mechanism.
@@ -96,7 +96,7 @@ Li Peng, **Cheng Yang**, Yifan Chen and Wei Liu
 
 [**RNMFLP: Predicting circRNA–disease associations based on robust nonnegative matrix factorization and label propagation**](https://academic.oup.com/bib/article/23/5/bbac155/6582881?login=false) <img src='https://img.shields.io/github/stars/biohnuster/RNMFLP.svg?style=social&label=Star' alt="sym" height="100%">
 
-Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu
+Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu.
 
 - Robust non-negative matrix factorisation.
 - Multiple subspace feature propagation.
@@ -116,27 +116,27 @@ Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu
 </div>
 
 
+
+
 <ul>
   <li>
-    <a href="https://arxiv.org/abs/2406.06911"> AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising</a>. Zigeng Chen, <strong>Xinyin Ma</strong>, Gongfan Fang, Zhenxiong Tan, Xinchao Wang. <strong>Preprint</strong>. 
+    <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2024212"> HRGCNLDA: Forecasting of lncRNA-disease association based on hierarchical refinement graph convolutional neural network</a>.Li Peng, Yujie Yang, <strong>Cheng Yang<strong>, Zejun Li, Ngai Cheong. <strong>Mathematical Biosciences and Engineering 2024</strong>. 
     <div style="display: inline">
-        <a href="https://arxiv.org/abs/2406.06911"> [paper]</a>
-        <a href="https://github.com/czg1225/AsyncDiff"> [code]</a>
+        <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2024212"> [paper]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
-            <p> Diffusion models have garnered significant interest from the community for their great generative ability across various applications. However, their typical multi-step sequential-denoising nature gives rise to high cumulative latency, thereby precluding the possibilities of parallel computation. To address this, we introduce AsyncDiff, a universal and plug-and-play acceleration scheme that enables model parallelism across multiple devices. Our approach divides the cumbersome noise prediction model into multiple components, assigning each to a different device. To break the dependency chain between these components, it transforms the conventional sequential denoising into an asynchronous process by exploiting the high similarity between hidden states in consecutive diffusion steps. Consequently, each component is facilitated to compute in parallel on separate devices. The proposed strategy significantly reduces inference latency while minimally impacting the generative quality. Specifically, for the Stable Diffusion v2.1, AsyncDiff achieves a 2.7x speedup with negligible degradation and a 4.0x speedup with only a slight reduction of 0.38 in CLIP Score, on four NVIDIA A5000 GPUs. Our experiments also demonstrate that AsyncDiff can be readily applied to video diffusion models with encouraging performances. </p>
+            <p> Long non-coding RNA (lncRNA) is considered to be a crucial regulator involved in various human biological processes, including the regulation of tumor immune checkpoint proteins. It has great potential as both a cancer biomolecular biomarker and therapeutic target. Nevertheless, conventional biological experimental techniques are both resource-intensive and laborious, making it essential to develop an accurate and efficient computational method to facilitate the discovery of potential links between lncRNAs and diseases. In this study, we proposed HRGCNLDA, a computational approach utilizing hierarchical refinement of graph convolutional neural networks for forecasting lncRNA-disease potential associations. This approach effectively addresses the over-smoothing problem that arises from stacking multiple layers of graph convolutional neural networks. Specifically, HRGCNLDA enhances the layer representation during message propagation and node updates, thereby amplifying the contribution of hidden layers that resemble the ego layer while reducing discrepancies. The results of the experiments showed that HRGCNLDA achieved the highest AUC-ROC (area under the receiver operating characteristic curve, AUC for short) and AUC-PR (area under the precision versus recall curve, AUPR for short) values compared to other methods. Finally, to further demonstrate the reliability and efficacy of our approach, we performed case studies on the case of three prevalent human diseases, namely, breast cancer, lung cancer and gastric cancer. </p>
         </div>
     </div>
   </li>
 
-    <li>
-    <a href="https://arxiv.org/abs/2406.06911"> AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising</a>. Zigeng Chen, <strong>Xinyin Ma</strong>, Gongfan Fang, Zhenxiong Tan, Xinchao Wang. <strong>Preprint</strong>. 
+  <li>
+   <a href="https://ieeexplore.ieee.org/document/9882129"> Predicting Drug-Target Interactions Via Dual-Stream Graph Neural Network</a>. Yuhui Li, Wei Liang, Li Peng, Dafang Zhang, <strong>Cheng Yang<strong>, Kuan-Ching Li. <strong>TCBB 2022</strong>. 
     <div style="display: inline">
-        <a href="https://arxiv.org/abs/2406.06911"> [paper]</a>
-        <a href="https://github.com/czg1225/AsyncDiff"> [code]</a>
+        <a href="https://ieeexplore.ieee.org/document/9882129"> [paper]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
-            <p> Diffusion models have garnered significant interest from the community for their great generative ability across various applications. However, their typical multi-step sequential-denoising nature gives rise to high cumulative latency, thereby precluding the possibilities of parallel computation. To address this, we introduce AsyncDiff, a universal and plug-and-play acceleration scheme that enables model parallelism across multiple devices. Our approach divides the cumbersome noise prediction model into multiple components, assigning each to a different device. To break the dependency chain between these components, it transforms the conventional sequential denoising into an asynchronous process by exploiting the high similarity between hidden states in consecutive diffusion steps. Consequently, each component is facilitated to compute in parallel on separate devices. The proposed strategy significantly reduces inference latency while minimally impacting the generative quality. Specifically, for the Stable Diffusion v2.1, AsyncDiff achieves a 2.7x speedup with negligible degradation and a 4.0x speedup with only a slight reduction of 0.38 in CLIP Score, on four NVIDIA A5000 GPUs. Our experiments also demonstrate that AsyncDiff can be readily applied to video diffusion models with encouraging performances. </p>
+            <p> Drug target interaction prediction is a crucial stage in drug discovery. However, brute-force search over a compound database is financially infeasible. We have witnessed the increasing measured drug-target interactions records in recent years, and the rich drug/protein-related information allows the usage of graph machine learning. Despite the advances in deep learning-enabled drug-target interaction, there are still open challenges: (1) rich and complex relationship between drugs and proteins can be explored; (2) the intermediate node is not calibrated in the heterogeneous graph. To tackle with above issues, this paper proposed a framework named DSG-DTI. Specifically, DSG-DTI has the heterogeneous graph autoencoder and heterogeneous attention network-based Matrix Completion. Our framework ensures that the known types of nodes (e.g., drug, target, side effects, diseases) are precisely embedded into high-dimensional space with our pretraining skills. Also, the attention-based heterogeneous graph-based matrix completion achieves highly competitive results via effective long-range dependencies extraction. We verify our model on two public benchmarks. The result of two publicly available benchmark application programs show that the proposed scheme effectively predicts drug-target interactions and can generalize to newly registered drugs and targets with slight performance degradation, outperforming the best accuracy compared with other baselines. </p>
         </div>
     </div>
   </li>
