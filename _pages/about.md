@@ -39,7 +39,7 @@ I have published several papers in Briefings in Bioinformatics (BIB), IEEE/ACM T
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper is under review by [IJBM](https://www.editorialmanager.com/ijbiomac/Default.aspx) journal reviewers.
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by JBHI'23.
 - *2022.05*: &nbsp;🎉🎉 One paper accepted by BIB'22.
-- *2022.09*: &nbsp;🎉🎉 One co-authored paper accepted by TCBB'22
+- *2022.09*: &nbsp;🎉🎉 One co-authored paper accepted by TCBB'22.
 
 # 📝 Publications 
 
