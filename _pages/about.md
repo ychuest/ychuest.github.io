@@ -141,6 +141,17 @@ Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu.
     </div>
   </li>
 
+  <li>
+   <a href="https://link.springer.com/chapter/10.1007/978-3-030-95391-1_39"> Nonnegative Matrix Factorization Framework for Disease-Related CircRNA Prediction</a>. <strong>Cheng Yang</strong>, Li Peng, Wei Liu, Xiangzheng Fu and Ni Li.<strong> Algorithms and Architectures for Parallel Processing(ICA3PP, CCF-C) 2021</strong>.    
+    <div style="display: inline">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-030-95391-1_39"> [paper]</a>
+        <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
+        <div class="abstract"  style="overflow: hidden; display: none;">  
+            <p> Nowadays, more and more scholars and related studies have shown that circular RNA (circRNA) is related to the occurrence and development of human diseases. It is necessary to use computational approach to predict potential and unknown associations between circRNA and disease, which will save time and money in developing drugs for treating disease. In this paper, we propose a new computational model called robust nonnegative matrix factorization framework (RNMF), which learns a robust association discriminative representation by using the similarity information structure of network space and L21-norm loss function. Specifically, we use integrated circRNA similarity network and integrated disease similarity network to update known association matrix from the perspective of matrix multiplication at first. Then, the problems of noise and outliers of elements in the updated association matrix are well addressed by the L21-norm loss function. Finally, the computational model is expressed as an optimization problem of objective function solved by iterative algorithm. Experimental results show that our model can achieve better performance than state-of-the-art methods in several aspects. </p>
+        </div>
+    </div>
+  </li>
+
 </ul>
 
 
