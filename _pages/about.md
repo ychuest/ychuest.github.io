@@ -35,6 +35,7 @@ I have published several papers in Briefings in Bioinformatics (BIB), IEEE/ACM T
 **I'm actively seeking a PHD opportunity. If you have any opportunities, please contact me, I would appreciate it. Thanks 😎!**
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 One paper accepted by BIBM'24.
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by JBHI'24.
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper is under review by [IJBM](https://www.editorialmanager.com/ijbiomac/Default.aspx) journal reviewers.
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by JBHI'23.
