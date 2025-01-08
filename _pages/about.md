@@ -171,7 +171,7 @@ Li Peng, **Cheng Yang**, Li Huang, Xiang Chen, Xiangzheng Fu and Wei Liu.
 
 
 # 💻 Internships
-- *2024.06 - (now)*, Junior Engineer with Large Language Model joins Network Information Centre of National University of Defence Technology (NUDT), Changsha.
+- *2024.06 - 2024.12*, Junior Engineer with Large Language Model joins Network Information Centre of National University of Defence Technology (NUDT), Changsha.
 
 <p align="center"> 
   Visitor counts<br>
