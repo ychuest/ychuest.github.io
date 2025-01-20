@@ -25,7 +25,7 @@ Welcome to Cheng Yang(杨城)’s website!
 
 Previously I obtained my master degree in computer science from Hunan University of Science and Technology where I was advised by [Prof.Li Peng](https://faculty.hnust.edu.cn/pubtphp/jsjkxygcxy/1050047/chinese/).
 
-😎 **Now，I’m currently learning at [College of Computer Science and Electronic Engineering](https://csee.hnu.edu.cn/index.htm), under the supervision of [Prof. Yuansheng Liu](https://csee.hnu.edu.cn/people/liuyuansheng) and [Prof. Xiao Luo](https://grzy.hnu.edu.cn/site/index/luoxiao2)**
+😎 **Now，I’m currently learning at [College of Computer Science and Electronic Engineering](https://csee.hnu.edu.cn/index.htm), under the supervision of [Prof. Yuansheng Liu](https://csee.hnu.edu.cn/people/liuyuansheng) and [Prof. Xiao Luo](https://grzy.hnu.edu.cn/site/index/luoxiao2).**
 
 I’m currently conducting some research in deep learning, including:    
 🌲 **Large Language Models in Bioinformatics**.  
